@@ -34,7 +34,6 @@
                     ImageUrl="C:\Users\Ancrock\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\contact.jpg" Width="276px" />
             </td>
             <td>Amit Chaudhari<br />
-                Monika Reddy<br />
                 Company Name: ANCROCK TECHNOLOGIES/>
                 Phone Number: (714)-(804)-(4603)<br />
                 E-Mail Id: ancrock@gmail.com<br />
