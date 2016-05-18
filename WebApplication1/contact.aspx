@@ -25,7 +25,7 @@
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-<p class="auto-style1">ContContact Us</p>
+<p class="auto-style1">Contact Us</p>
     <p></p>
     <table class="style2">
         <tr>
@@ -34,6 +34,7 @@
                     ImageUrl="C:\Users\Ancrock\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\contact.jpg" Width="276px" />
             </td>
             <td>Amit Chaudhari<br />
+                Monika Reddy<br />
                 Company Name: ANCROCK TECHNOLOGIES/>
                 Phone Number: (714)-(804)-(4603)<br />
                 E-Mail Id: ancrock@gmail.com<br />
